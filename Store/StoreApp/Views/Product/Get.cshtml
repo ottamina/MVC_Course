@@ -1,6 +1,12 @@
 @model Product
 
-
-<h3>@Model.ProductName</h3>
-<p>Price: @Model.Price</p>
-<a href="/Product">Products</a>
+<div class="card text-bg-light mb-3 my-5" style="max-width: 18rem;">
+    <div class="card-header">@Model.ProductName</div>
+    <div class="card-body">
+        <h5 class="card-title">@Model.Price.ToString("C")</h5>
+        <a class="btn btn-light" asp-controller="Product" asp-action="Index">
+            <i class="fa-solid fa-list"></i>
+            Products
+        </a>
+    </div>
+</div>

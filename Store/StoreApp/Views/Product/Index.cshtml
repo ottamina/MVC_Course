@@ -2,11 +2,15 @@
 
 
 
-@section Header { <!-- section ile sadece bu sayfaa ozel seyler ekledik -->
-    <h2>Product List</h2>
+@section Header {
+    <!-- section ile sadece bu sayfaa ozel seyler ekledik -->
+
 }
 
-@foreach (Product prd in Model)
-{
-    <partial name="_ProductCard" model="@prd" /> <!-- _ProductCard partialini cagirdik ve model olarak prd verdik -->
-}
+<div class="row row-cols-2 row-cols-md-3 g-2">
+    @foreach (Product prd in Model)
+    {
+        
+        <partial name="_ProductCard" model="@prd" /> <!-- _ProductCard partialini cagirdik ve model olarak prd verdik -->
+    }
+</div>
