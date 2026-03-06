@@ -1,0 +1,8 @@
+@model Product
+
+<div>
+    <h1>@Model.ProductName</h1>
+    <p>Price: @Model.Price</p>
+    <a asp-action="Get" asp-route-id="@Model.ProductId">Get Details</a>
+    <hr />
+</div>

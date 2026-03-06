@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body> <!-- tum sayfalarda ortak olan kisimlar buraya yazilir -->
+    <header>
+        <partial name="_Navbar" /> <!-- _Layout sayfasinda navbar kisminda _Navbar partialini cagirdik -->
+        <h1>My Store</h1>
+        
+        @RenderSection("Header", required: false)
+    </header>
+
+    <main>
+        @RenderBody()
+    </main>
+
+    <footer>
+        <p>&copy; 2023 My Store. All rights reserved.</p>
+        @RenderSection("Footer", required: false)
+    </footer>
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+
+</html>

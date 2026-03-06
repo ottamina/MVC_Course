@@ -10,7 +10,7 @@ namespace StoreApp.Controllers
     {
         private readonly RepositoryContext _context;
 
-        public ProductController(RepositoryContext context)
+        public ProductController(RepositoryContext context) // Dependency Injection
         {
             _context = context;
         }
