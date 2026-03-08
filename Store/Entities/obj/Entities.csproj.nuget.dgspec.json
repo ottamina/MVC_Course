@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oteks\\OneDrive\\Belgeler\\MVC\\Store\\Entities\\Entities.csproj": {}
+    "c:\\Users\\oteks\\OneDrive\\Belgeler\\MVC\\Store\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oteks\\OneDrive\\Belgeler\\MVC\\Store\\Entities\\Entities.csproj": {
+    "c:\\Users\\oteks\\OneDrive\\Belgeler\\MVC\\Store\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oteks\\OneDrive\\Belgeler\\MVC\\Store\\Entities\\Entities.csproj",
+        "projectUniqueName": "c:\\Users\\oteks\\OneDrive\\Belgeler\\MVC\\Store\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\oteks\\OneDrive\\Belgeler\\MVC\\Store\\Entities\\Entities.csproj",
+        "projectPath": "c:\\Users\\oteks\\OneDrive\\Belgeler\\MVC\\Store\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\oteks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oteks\\OneDrive\\Belgeler\\MVC\\Store\\Entities\\obj\\",
+        "outputPath": "c:\\Users\\oteks\\OneDrive\\Belgeler\\MVC\\Store\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "umjgYI+VSjE=",
+  "dgSpecHash": "mr1Tp5OJ2V8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\oteks\\OneDrive\\Belgeler\\MVC\\Store\\StoreApp\\StoreApp.csproj",
+  "projectFilePath": "c:\\Users\\oteks\\OneDrive\\Belgeler\\MVC\\Store\\StoreApp\\StoreApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oteks\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\oteks\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.0\\microsoft.data.sqlite.core.6.0.0.nupkg.sha512",
