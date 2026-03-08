@@ -1,11 +1,14 @@
 using Microsoft.EntityFrameworkCore;
-using StoreApp.Models;
+using Repositories;
+using Entities.Models;
+
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<RepositoryContext>(options =>
 {
-    options.UseSqlite(builder.Configuration.GetConnectionString("sqlconnection") ?? "Data Source=store.db");
+    options.UseSqlite(builder.Configuration.GetConnectionString("sqlconnection"),
+    b => b.MigrationsAssembly("StoreApp"));
 });
     
 

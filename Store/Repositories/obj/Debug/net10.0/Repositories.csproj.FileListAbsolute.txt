@@ -1,0 +1,16 @@
+C:\Users\oteks\OneDrive\Belgeler\MVC\Store\Repositories\bin\Debug\net10.0\Repositories.deps.json
+C:\Users\oteks\OneDrive\Belgeler\MVC\Store\Repositories\bin\Debug\net10.0\Repositories.dll
+C:\Users\oteks\OneDrive\Belgeler\MVC\Store\Repositories\bin\Debug\net10.0\Repositories.pdb
+C:\Users\oteks\OneDrive\Belgeler\MVC\Store\Repositories\obj\Debug\net10.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oteks\OneDrive\Belgeler\MVC\Store\Repositories\obj\Debug\net10.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\oteks\OneDrive\Belgeler\MVC\Store\Repositories\obj\Debug\net10.0\Repositories.AssemblyInfo.cs
+C:\Users\oteks\OneDrive\Belgeler\MVC\Store\Repositories\obj\Debug\net10.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\oteks\OneDrive\Belgeler\MVC\Store\Repositories\obj\Debug\net10.0\Repositories.sourcelink.json
+C:\Users\oteks\OneDrive\Belgeler\MVC\Store\Repositories\obj\Debug\net10.0\Repositories.dll
+C:\Users\oteks\OneDrive\Belgeler\MVC\Store\Repositories\obj\Debug\net10.0\refint\Repositories.dll
+C:\Users\oteks\OneDrive\Belgeler\MVC\Store\Repositories\obj\Debug\net10.0\Repositories.pdb
+C:\Users\oteks\OneDrive\Belgeler\MVC\Store\Repositories\obj\Debug\net10.0\ref\Repositories.dll
+C:\Users\oteks\OneDrive\Belgeler\MVC\Store\Repositories\bin\Debug\net10.0\Entities.dll
+C:\Users\oteks\OneDrive\Belgeler\MVC\Store\Repositories\bin\Debug\net10.0\Entities.pdb
+C:\Users\oteks\OneDrive\Belgeler\MVC\Store\Repositories\obj\Debug\net10.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\oteks\OneDrive\Belgeler\MVC\Store\Repositories\obj\Debug\net10.0\Reposito.787EC4B2.Up2Date

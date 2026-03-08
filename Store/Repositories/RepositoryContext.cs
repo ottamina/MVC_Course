@@ -1,11 +1,11 @@
+﻿using Entities.Models;
 using Microsoft.EntityFrameworkCore;
+namespace Repositories;
 
-namespace StoreApp.Models
 
+public class RepositoryContext : DbContext
 {
-    public class RepositoryContext : DbContext
-    {
-        public DbSet<Product> Products { get; set; }
+    public DbSet<Product> Products { get; set; }
         public RepositoryContext(DbContextOptions<RepositoryContext> options) : base(options)
         {
             
@@ -23,5 +23,4 @@ namespace StoreApp.Models
                 new Product { ProductId = 5, ProductName = "Monitor", Price = 3_000 }
             );
         }
-    }    
 }
