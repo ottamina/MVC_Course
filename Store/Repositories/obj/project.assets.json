@@ -833,11 +833,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\oteks\\OneDrive\\Belgeler\\MVC\\Store\\Repositories\\Repositories.csproj",
+      "projectUniqueName": "C:\\Users\\oteks\\OneDrive\\Belgeler\\MVC\\Store\\Repositories\\Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "c:\\Users\\oteks\\OneDrive\\Belgeler\\MVC\\Store\\Repositories\\Repositories.csproj",
+      "projectPath": "C:\\Users\\oteks\\OneDrive\\Belgeler\\MVC\\Store\\Repositories\\Repositories.csproj",
       "packagesPath": "C:\\Users\\oteks\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\oteks\\OneDrive\\Belgeler\\MVC\\Store\\Repositories\\obj\\",
+      "outputPath": "C:\\Users\\oteks\\OneDrive\\Belgeler\\MVC\\Store\\Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -859,8 +859,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "c:\\Users\\oteks\\OneDrive\\Belgeler\\MVC\\Store\\Entities\\Entities.csproj": {
-              "projectPath": "c:\\Users\\oteks\\OneDrive\\Belgeler\\MVC\\Store\\Entities\\Entities.csproj"
+            "C:\\Users\\oteks\\OneDrive\\Belgeler\\MVC\\Store\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\oteks\\OneDrive\\Belgeler\\MVC\\Store\\Entities\\Entities.csproj"
             }
           }
         }
@@ -1189,7 +1189,7 @@
       "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "'Microsoft.Extensions.Caching.Memory' 6.0.0 paketinde önem derecesi yüksek olan bilinen bir https://github.com/advisories/GHSA-qj66-m88j-hmgj güvenlik açığı var",
+      "message": "Package 'Microsoft.Extensions.Caching.Memory' 6.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-qj66-m88j-hmgj",
       "libraryId": "Microsoft.Extensions.Caching.Memory",
       "targetGraphs": [
         "net10.0"

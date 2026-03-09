@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i7nxIKgIJuA=",
+  "dgSpecHash": "q69YRi6RuCk=",
   "success": true,
-  "projectFilePath": "c:\\Users\\oteks\\OneDrive\\Belgeler\\MVC\\Store\\Repositories\\Repositories.csproj",
+  "projectFilePath": "C:\\Users\\oteks\\OneDrive\\Belgeler\\MVC\\Store\\Repositories\\Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oteks\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.0\\microsoft.data.sqlite.core.6.0.0.nupkg.sha512",
     "C:\\Users\\oteks\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
@@ -30,10 +30,10 @@
     {
       "code": "NU1903",
       "level": "Warning",
-      "message": "'Microsoft.Extensions.Caching.Memory' 6.0.0 paketinde önem derecesi yüksek olan bilinen bir https://github.com/advisories/GHSA-qj66-m88j-hmgj güvenlik açığı var",
-      "projectPath": "c:\\Users\\oteks\\OneDrive\\Belgeler\\MVC\\Store\\Repositories\\Repositories.csproj",
+      "message": "Package 'Microsoft.Extensions.Caching.Memory' 6.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-qj66-m88j-hmgj",
+      "projectPath": "C:\\Users\\oteks\\OneDrive\\Belgeler\\MVC\\Store\\Repositories\\Repositories.csproj",
       "warningLevel": 1,
-      "filePath": "c:\\Users\\oteks\\OneDrive\\Belgeler\\MVC\\Store\\Repositories\\Repositories.csproj",
+      "filePath": "C:\\Users\\oteks\\OneDrive\\Belgeler\\MVC\\Store\\Repositories\\Repositories.csproj",
       "libraryId": "Microsoft.Extensions.Caching.Memory",
       "targetGraphs": [
         "net10.0"
